@@ -1,0 +1,6 @@
+[submodule "externals/async_fifo"]
+	path = externals/async_fifo
+	url = git@github.com:felipx/async_fifo.git
+[submodule "externals/pipeline_skid_buffer"]
+	path = externals/pipeline_skid_buffer
+	url = git@github.com:felipx/pipeline_skid_buffer.git
